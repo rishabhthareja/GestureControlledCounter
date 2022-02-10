@@ -21,7 +21,7 @@ Up count:
 1. When all the firngers are curled in and thumb is up.
 
 Down count 
-1. ALl fingers are curled in and thumb is pointing down.
+1. All fingers are curled in and thumb is pointing down.
 
 Neither up or down count.
 1. When fingers are not curled in palm.
