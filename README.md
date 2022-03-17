@@ -27,3 +27,7 @@ Neither up or down count.
 1. When fingers are not curled in palm.
 2. If thumb is pointing up or down but fingers are not curled in.
 3. If fingers are curled inside palm and thumb is not pointing up or down or when there will be fist gesture in frame.
+
+
+https://user-images.githubusercontent.com/36872855/158835130-729a1634-d1c3-4452-ab82-1c5166723adb.mp4
+
